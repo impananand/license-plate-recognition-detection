@@ -1,0 +1,6 @@
+results/
+env/
+*.pyc
+app.log
+output/
+uploads/

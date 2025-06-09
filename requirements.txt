@@ -1,0 +1,4 @@
+ultralytics 
+paddleocr 
+opencv-python 
+tqdm
